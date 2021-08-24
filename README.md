@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Joey @J-Rivard
-- 🌱 I’m currently learning ...
-  - Distributed systems
-  - P2P Networking
+- CS Masters student at Georgia Tech
 - 📫 How to reach me ...
   - [LinkedIn](https://www.linkedin.com/in/josephrivard/)
   - joeyrivard42@gmail.com
